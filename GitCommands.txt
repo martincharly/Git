@@ -60,7 +60,7 @@
 
             git checkout le_nom_de_la_branche
 
-          2.4.4 - Fusionner une branche
+          2.4.4 - Fusionner une branche (se positionner sur la branche master)
 
             git merge le_nom_de_la_branche_à_fusionner
 
