@@ -8,7 +8,7 @@
       1.2 - Paramétrage d'identité
 
         git config --global user.name "Nom Prénom"
-        git config global user.email "adresse@mail.com"
+        git config --global user.email "adresse@mail.com"
 
       1.3 - Créer un dossier
 
